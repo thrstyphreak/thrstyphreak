@@ -1,4 +1,4 @@
-# Hello I am thrstyphreak
-# I am a aspiring network architect
-# Currently doing Bug Bounty
-# As well as freelance
+# I am thrstyphreak
+# Aspring network architect and cyber security professional
+# Currently doing bug bounty
+# As well as IT freelancing
